@@ -1,11 +1,12 @@
 body {
     background-image: url("umbrella.jpg");
     font-family: 'Courier Prime', monospace;
+    width: auto;
 }
 
 form {
     text-align: center;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 form label {
@@ -40,10 +41,11 @@ form input {
     width: 15%;
 }
 
-.result {
-    margin-top: 5%;
+.loginResult {
+    margin-top: 10%;
     color: #FEFEFE;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 28px;
 }
     
+
